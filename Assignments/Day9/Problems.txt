@@ -1,0 +1,4 @@
+1. Draw the state diagram for a FSM, the output toggles whenever it detects ‘110’ LSB first
+(overlapping). Consider initial value of output as 0.
+2.Design a FSM over { 0, 1, 2, 3 } that will output the largest input digit read so far. e.g. input : 001032 will produce output: 001133
+3. Write Verilog Codes for above and Verify it in Vivado
